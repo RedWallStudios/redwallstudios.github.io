@@ -7,3 +7,7 @@ body{
 header{
   font-size: 25vw;
 }
+
+.frame{
+  margin-bottom: 20px;
+}
