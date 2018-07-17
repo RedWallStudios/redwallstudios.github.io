@@ -5,10 +5,10 @@ body{
   text-align: center;
 }
 
-header{
+.heading{
   font-size: 26vw;
-  margin-top: -45px;
-  margin-bottom: -45px
+  margin-top: -25px;
+  margin-bottom: -25px
 }
 
 article{
