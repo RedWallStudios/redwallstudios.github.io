@@ -2,10 +2,17 @@ body{
   background-color: white;
   color: pink;
   font-family: Arial, sans-serif;
+  text-align: center;
 }
 
 header{
-  font-size: 25vw;
+  font-size: 26vw;
+  margin-top: -45px;
+  margin-bottom: -45px
+}
+
+article{
+  font-size: 7vw;
 }
 
 .frame{
